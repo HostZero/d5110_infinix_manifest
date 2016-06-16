@@ -3,5 +3,7 @@
 
 <project path="vendor/infinix/d5110_infinix" name="Nonta72/android_vendor_d5110_infinix" remote="github" revision="cm-12.1"/>
 
-<project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" remote="github" revision="android-6.0"/>
+<project path="device/infinix/d5110" name="HostZero/android_device_infinix_d5110" remote="github" revision="android-5.1"/>
+
+<project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" remote="github" revision="android-5.1"/>
 </manifest>
